@@ -6,5 +6,5 @@
 - LQIP 이미지는 base64 형태로 변환해 사용함.
     - [base-image.de](https://www.base64-image.de/)를 이용함.
 - 아바타 이미지는 png 이미지를 직접 만들어서 사용함.
-    - [favicon-generator](https://www.favicon-generator.org/)를 이용함.
-    - [fontmeme.com](https://fontmeme.com/ko/invert-colors/)을 이용함.
+    - [favicon-generator](https://www.favicon-generator.org/) 및 [favicon.io](https://favicon.io/favicon-converter/)을 같이 이용함.
+    - 색상 반전은 [fontmeme.com](https://fontmeme.com/ko/invert-colors/) 이용함.
