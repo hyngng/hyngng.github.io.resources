@@ -8,3 +8,5 @@
 - 아바타 이미지는 png 이미지를 직접 만들어서 사용함.
     - [favicon-generator](https://www.favicon-generator.org/) 및 [favicon.io](https://favicon.io/favicon-converter/)을 같이 이용함.
     - 색상 반전은 [fontmeme.com](https://fontmeme.com/ko/invert-colors/) 이용함.
+- IndexNow를 사용함
+    - [다른 블로그](https://ataidev.cc/posts/how-to-indexnow-with-bing/)를 참고함.
